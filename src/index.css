@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to right, #31c7ec 0%, #4d8199d7 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.contenedorcentral {
+  padding: 50px auto;
+  background-image: linear-gradient(to right, #0acffe 50%, #626dca 50%);
+  color: white;
+  text-decoration: none;
+}
+
+.imghome1{
+  position: relative ;
+  top: 40px;
+	left: 0;
+	width: 100%;
+	display: flex;
+	z-index: 1000;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.imghome{
+  position: relative ;
+  top: 40px;
+	left: 0;
+	width: 100%;
+	display: flex;
+	z-index: 1000;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.jecsa {
+  padding-top: 10px;
+  align-items: center;
+  margin-left: 20px;
+}
+
+.dialogLogin{
+  background-color: rgba(red, green, blue, 0.7);
+}
+
+.pesos {
+  text-align: right;
+
+}
+
+.total{
+  justify-content: center;
+	align-items: center;
+  text-align: right;
+  border: solid 1px gray;
+}
+
+.buttonIzq{
+  border: solid 1px rgb(43, 40, 40);
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #53555f;
+  color: white;
+  margin: 20px;
+  
+}
+
+.buttonIzq:hover{
+  background-color: #9ea0aa;
+  color: white;
+  margin: 20px;
+  
+}
+
+
+.buttonDer{
+  border: solid 1px rgb(43, 40, 40);
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #53555f;
+  color: white;
+  margin: 20px;
+  
+}
+
+.sede{
+  border: solid 1px grey;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.navGral{
+  position: absolute;
+}
+
+
